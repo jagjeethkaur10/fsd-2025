@@ -1,0 +1,12 @@
+h1 {
+    background-color: red;
+    font-size: 45px;
+    font-style: italic;
+    font-weight: bolder;
+    color: gold;
+}
+p{
+    font-style: initial;
+    color: blue;
+    
+}
