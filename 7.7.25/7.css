@@ -1,0 +1,21 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 400;
+    color: brown; 
+    background-color: #7c9e3e; 
+}
+p{
+    color: pink;
+    background-image: url(https://preview.colorlib.com/theme/carries/img/blog/blog_1.jpg.webp);
+    background-position: center;
+
+}
+
+a{
+    color: hsl(37, 90%, 51%);
+    div{
+        color: lightgray;
+        }
+   
+}
