@@ -1,0 +1,22 @@
+div{
+    margin: 0px;
+    background-image: url("https://preview.colorlib.com/theme/farmie/img/bg-img/7.jpg.webp");
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 13rem;
+    line-height: 20px;
+}
+#heart-of-our-farm h1{
+padding: 30px;
+font-weight: bolder;
+}
+#heart-of-our-farm p{
+    line-height: 30px;
+    padding: 20px 30px;
+}
+#heart-of-our-farm a{
+    background-color: rgb(119, 176, 33);
+    padding: 14px;
+    color: white;
+    
+}
