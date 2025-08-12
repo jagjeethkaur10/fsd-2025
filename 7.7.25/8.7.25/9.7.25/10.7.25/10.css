@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#carriers{
+padding: 40px;
+float: left;
+}
+.carrier {
+    padding: 15px;
+    width: 29%;
+    float: left;
+    text-align: center;
+    margin: 0px 3px;
+    
+}
+img{
+    width: 100%;
+    
+}
+.carrier a {
+    background-color: gray;
+    color: white;
+    padding: 4px 4px;
+    border-radius: 5px;
+}
+
+.carrier p{
+    line-height: 25px;
+}
+.carrier div{
+    padding: 0px 15px;
+}
