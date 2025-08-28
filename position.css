@@ -1,0 +1,50 @@
+
+body{
+    margin: 0%;
+}
+#main_pg{
+    background-image: url("https://preview.colorlib.com/theme/heaven/img/banner_bg_1.png.webp");
+    background-size: cover;
+    padding: 80px;
+
+    
+}
+#first_1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 50px;
+}
+#first_1 h4{
+color: rgb(255, 128, 0);
+}
+.feature{
+    background-color: white;
+    color: black ;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: flex;
+    align-content: center;
+}
+#bars_3{
+    display: flex;
+    justify-content: space-evenly;
+    column-gap: 20px;
+   position: absolute;
+    padding: 20px;
+}
+.space_3{
+    padding: 0px 20px;
+}
+.feature img{
+    padding: 5px 30px;
+}
+#first_1 h4 {
+    padding: 70px 0px 20px 20px;
+}
+#first_1 h1 {
+    padding: 0px 0px 20px 20px;
+}
+#first_1 p{
+    padding: 0px 0px 20px 20px;
+}
